@@ -22,7 +22,7 @@
 Apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas
 
 ## Último projeto
-- [API Java SpringBoot](https://github.com/Sonegodev/eFragcs)
+- [API/Frontend eFragcs](https://github.com/Sonegodev/eFragcs)
 
 ## Contato
 [Meu email](eeericsonego@gmail.com)
